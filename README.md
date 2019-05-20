@@ -16,7 +16,7 @@ Add this to your `package.json` file:
 
 ```json
 "browserslist": [
-	"extends @chancedigital/browserslist-config"
+  "extends @chancedigital/browserslist-config"
 ]
 ```
 
