@@ -1,5 +1,7 @@
 # Chance Digital Browserslist Config
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chancedigital/browserslist-config.svg)](https://greenkeeper.io/)
+
 Shareable configuration for [Browserslist](https://www.npmjs.com/package/browserslist) following Chance Digital Coding Standards.
 
 ## Installation
