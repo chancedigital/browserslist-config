@@ -1,6 +1,6 @@
 {
   "name": "@chancedigital/browserslist-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Shareable configuration for Browserslist following Chance Digital Coding Standards.",
   "keywords": [
     "browserslist",
@@ -28,17 +28,17 @@
     "test": "jest"
   },
   "devDependencies": {
-    "@babel/core": "^7.5.4",
-    "@babel/preset-env": "^7.5.4",
-    "@chancedigital/eslint-config": "^2.0.1",
-    "babel-eslint": "^10.0.2",
-    "babel-jest": "^24.8.0",
-    "browserslist": "^4.6.0",
-    "eslint": "^6.0.1",
-    "eslint-plugin-import": "^2.18.0",
-    "eslint-plugin-jest": "^22.8.0",
-    "jest": "^24.8.0",
-    "prettier": "^1.18.2"
+    "@babel/core": "7.5.5",
+    "@babel/preset-env": "7.5.5",
+    "@chancedigital/eslint-config": "4.0.0",
+    "babel-eslint": "10.0.3",
+    "babel-jest": "24.9.0",
+    "browserslist": "4.6.6",
+    "eslint": "6.2.2",
+    "eslint-plugin-import": "2.18.2",
+    "eslint-plugin-jest": "22.16.0",
+    "jest": "24.9.0",
+    "prettier": "1.18.2"
   },
   "engines": {
     "node": ">=10"
