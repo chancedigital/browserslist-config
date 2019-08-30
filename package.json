@@ -1,6 +1,6 @@
 {
   "name": "@chancedigital/browserslist-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Shareable configuration for Browserslist following Chance Digital Coding Standards.",
   "keywords": [
     "browserslist",
